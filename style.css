@@ -1,11 +1,11 @@
 @font-face{
     font-family:'Akira';
-    src:url(font/Akira.otf);
+    src:url(Akira.otf);
 }
 
 @font-face{
     font-family:'Muthiara';
-    src:url(font/Muthiara.otf);
+    src:url(Muthiara.otf);
 }
 
 .container-fluid-1{
